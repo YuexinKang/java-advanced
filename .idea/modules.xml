@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/collection-study/collection-study.iml" filepath="$PROJECT_DIR$/collection-study/collection-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui-form/gui-form.iml" filepath="$PROJECT_DIR$/gui-form/gui-form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io-study/io-study.iml" filepath="$PROJECT_DIR$/io-study/io-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j-soup-study/j-soup-study.iml" filepath="$PROJECT_DIR$/j-soup-study/j-soup-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-study/jdbc-study.iml" filepath="$PROJECT_DIR$/jdbc-study/jdbc-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-study/socket-study.iml" filepath="$PROJECT_DIR$/socket-study/socket-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swing-study/swing-study.iml" filepath="$PROJECT_DIR$/swing-study/swing-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-study/thread-study.iml" filepath="$PROJECT_DIR$/thread-study/thread-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/url-study/url-study.iml" filepath="$PROJECT_DIR$/url-study/url-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
     </modules>
   </component>

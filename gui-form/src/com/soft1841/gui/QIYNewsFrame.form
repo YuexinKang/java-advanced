@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.soft1841.gui.QIYNewsFrame">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="1082" height="682"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="6f0e1" binding="buttonPanel" layout-manager="FlowLayout" hgap="80" vgap="15" flow-align="0">
+        <constraints border-constraint="North"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="f2a17" class="javax.swing.JButton" binding="咨询Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1052689"/>
+              <borderPainted value="false"/>
+              <contentAreaFilled value="false"/>
+              <focusPainted value="false"/>
+              <font style="1"/>
+              <foreground color="-15198184"/>
+              <text value="咨询"/>
+            </properties>
+          </component>
+          <component id="5d23f" class="javax.swing.JButton" binding="娱乐Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1052689"/>
+              <borderPainted value="false"/>
+              <contentAreaFilled value="false"/>
+              <focusPainted value="false"/>
+              <font style="1"/>
+              <foreground color="-15198184"/>
+              <text value="娱乐"/>
+            </properties>
+          </component>
+          <component id="79a65" class="javax.swing.JButton" binding="搞笑Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1052689"/>
+              <borderPainted value="false"/>
+              <contentAreaFilled value="false"/>
+              <focusPainted value="false"/>
+              <font style="1"/>
+              <foreground color="-15198184"/>
+              <text value="搞笑"/>
+            </properties>
+          </component>
+          <component id="c4317" class="javax.swing.JButton" binding="时尚Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1052689"/>
+              <borderPainted value="false"/>
+              <contentAreaFilled value="false"/>
+              <focusPainted value="false"/>
+              <font style="1"/>
+              <foreground color="-15198184"/>
+              <text value="时尚"/>
+            </properties>
+          </component>
+          <component id="a1cf6" class="javax.swing.JButton" binding="片花Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1052689"/>
+              <borderPainted value="false"/>
+              <contentAreaFilled value="false"/>
+              <focusPainted value="false"/>
+              <font style="1"/>
+              <foreground color="-15198184"/>
+              <text value="片花"/>
+            </properties>
+          </component>
+          <component id="fb150" class="javax.swing.JButton" binding="动漫Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1052689"/>
+              <borderPainted value="false"/>
+              <contentAreaFilled value="false"/>
+              <focusPainted value="false"/>
+              <font style="1"/>
+              <foreground color="-15198184"/>
+              <text value="动漫"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <component id="627f3" class="javax.swing.JLabel" binding="leftnewsPanel">
+        <constraints border-constraint="West"/>
+        <properties>
+          <icon value="img/leftnews.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <grid id="f12e9" binding="rightPanel" layout-manager="GridLayoutManager" row-count="3" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints border-constraint="East"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="bc42c" binding="firstPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="0">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="84396" class="javax.swing.JLabel" binding="new1Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/new1.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="c2e0f" class="javax.swing.JLabel" binding="new2Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/new2.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="4da05" binding="secondPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="0">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="9f53e" class="javax.swing.JLabel" binding="new3Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/new1.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="410ce" class="javax.swing.JLabel" binding="new4Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/new2.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="c1f16" binding="thridPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="0">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="1f127" class="javax.swing.JLabel" binding="new5Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/new1.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="63ebe" class="javax.swing.JLabel" binding="new6Label">
+                <constraints/>
+                <properties>
+                  <icon value="img/new2.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
